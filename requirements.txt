@@ -1,0 +1,12 @@
+
+# safe versions
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.7.2
+statsmodels==0.14.5
+scipy==1.15.3
+
+# used/recommended versions
+seaborn==0.13.2
+python-weka-wrapper3==0.3.2
+scikit-learn==1.7.1
