@@ -20,7 +20,7 @@ A static HTML version of the notebook with outputs is available for reference:
 
 Data
 ---
-This project uses daily rainfall and streamflow data for two stream gauging stations (out of three studied in the original paper) within the Tapi basin. The original datasets were collected by official government agencies. Due to sharing restrictions, the data cannot be distributed publicly. Additionally, other important weather variables like temperature, humidity, wind speed, etc. were not available at the required timescale and therefore not included in this study.
+The dataset includes daily lumped rainfall and streamflow data for two stream gauging stations (out of three studied in the original paper) within the Tapi basin. The original datasets were collected by official government agencies. Due to sharing restrictions, the data cannot be distributed publicly.
 
 Usage
 ---
