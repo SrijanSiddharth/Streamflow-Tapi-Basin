@@ -16,7 +16,7 @@ Notebook Preview
 ---
 A static HTML version of the notebook with outputs is available for reference:  
 
-* [<strong>Streamflow Prediction</strong>](https://github.com/SrijanSiddharth/Streamflow-Tapi-Basin/blob/main/notebooks/streamflow_full.html)
+* [<strong>Streamflow Prediction</strong>](https://nbviewer.org/github/SrijanSiddharth/Streamflow-Tapi-Basin/blob/main/notebooks/streamflow_full.html)
 
 Data
 ---
